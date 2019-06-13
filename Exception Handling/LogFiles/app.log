@@ -1,0 +1,12 @@
+root - WARNING - This will get logged to a file
+root - INFO - INFO MSG
+root - DEBUG - Debugg MSG
+root - WARNING - warning msg
+root - CRITICAL - critical msg
+root - ERROR - error msg
+2019-06-13 11:44:21,936 - This will get logged to a file
+2019-06-13 11:44:21,936 - INFO MSG
+2019-06-13 11:44:21,936 - Debugg MSG
+2019-06-13 11:44:21,936 - warning msg
+2019-06-13 11:44:21,937 - critical msg
+2019-06-13 11:44:21,937 - error msg
